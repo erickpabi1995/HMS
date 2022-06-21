@@ -141,7 +141,7 @@ const _nav = [
   {
     component: CNavItem,
     name: 'Pharmacy',
-    to: '/theme/typography',
+    to: '/pharmacy',
     icon: <CIcon icon={cilSettings} customClassName="nav-icon" />,
   },
   {
